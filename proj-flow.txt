@@ -1,0 +1,8 @@
+Detailed steps
+
+1. create a github repo and clone it on your local
+2. Add experiments folder and add "my_notebook.ipynb"
+3. Add src folder and add "data_ingestion.py" (run them individually)
+4. Now add "preprocessing.py" inside src
+
+

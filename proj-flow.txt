@@ -4,5 +4,10 @@ Detailed steps
 2. Add experiments folder and add "my_notebook.ipynb"
 3. Add src folder and add "data_ingestion.py" (run them individually)
 4. Now add "preprocessing.py" inside src
+5. Now add "feature_engineering.py" inside src
+6. Now add "model_training.py" inside src
+7. Now add "model_evaluation.py" inside src
+8. Add data, models, reports, directories to .gitignore file
+9. Now do git add, commit and push
 
 
